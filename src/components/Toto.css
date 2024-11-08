@@ -3,6 +3,9 @@
     padding: 0;
     margin: 0;
 }
+body{
+    background:linear-gradient(#430f58,#6643b5,#8594e4,#d5def5,#d5def5,#8594e4,#6643b5,#430f58) ;
+}
 h1{
     color: green;
 }
