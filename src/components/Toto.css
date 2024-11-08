@@ -5,6 +5,8 @@
 }
 body{
     background-image:linear-gradient(#430f58,#6643b5,#8594e4,#d5def5,#d5def5,#8594e4,#6643b5,#430f58) ;
+    min-height:100vh;
+    background-repeat: no-repeat;
 }
 h1{
     color: green;
